@@ -7,6 +7,6 @@ set x=0
 set x= -a-b-c
 
 Print "The Sum is:"
-Print -x
+Print "-x"
 
 End
