@@ -1,0 +1,18 @@
+Start
+
+Input number 1 "a"
+Input number 2 "b"
+Input "op"
+
+Set ans=0
+
+If op="+"
+ans= a+b
+  Else if op="-"
+    ans=a-b
+
+Print "ans"
+Else  
+Print "incorrect operator"
+
+End
