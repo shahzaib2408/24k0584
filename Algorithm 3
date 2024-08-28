@@ -1,22 +1,22 @@
 Start
 
 Input two number "a" and "b"
-Input an operation (+,-,*,/)
+Input any operation (+,-,*,/)
 
-set ans=0
+set variable ans=0
 
 If the operation is "+" then ans=a+b
 Print "ans"
 
-Else If the operation is "-" then ans=a-b
+Or If the operation is "-" then ans=a-b
 Print "ans"
 
-Else If the operation is "*" then ans=a*b
+Otherwise If the operation is "*" then ans=a*b
 Print "ans"
 
-Else If the operation is "/" then ans=a/b
+Otherwise If the operation is "/" then ans=a/b
 Print "ans"
 
-Else print "incorrect operator"
+If not then print "incorrect operator"
 
 End
