@@ -1,0 +1,22 @@
+Start
+
+Enter Variable 1 "a"
+Enter Variable 2 "b"
+
+Process
+
+If a-b>0 and a-c>0
+Print "a is the largest number".
+
+Else
+    If b-a>0 and b-c>0
+    Print "b is the largest number".
+  Else
+     If c-a>0 and c-b>0
+     Print "c is the largest number".
+
+       Else
+          Print all the numbers are equal.
+End
+          
+ 
