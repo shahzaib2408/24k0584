@@ -1,23 +1,23 @@
 Start
 
-set N=0
+set the following variables N=0
     n=0
     m=n/N
     p=N/2
 
-Input N=any number
+Input two numbers N=any number
       n=any number
 
-If m=whole number
-"Print N is a divisor of n"
+If m=whole number then
+Print "N is a divisor of n"
 
-   Else
-     "Print N is not a divisor of n"
+Otherwise Print
+     "N is not a divisor of n"
 
-If p=whole number
+Check If p=whole number
   Print "N is an even number"
 
-Else 
+If p is not a whole number
   Print "N is an odd number"
 
 End
