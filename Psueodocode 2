@@ -1,0 +1,12 @@
+Start
+
+Input three variables "a","b",and "c".
+
+set x=0
+
+set x= -a-b-c
+
+Print "The Sum is:"
+Print -x
+
+End
